@@ -1,0 +1,9 @@
+layout/Custom_Tab.axml;layout/custom_tab.xml
+layout/Fragment_Date.axml;layout/fragment_date.xml
+layout/Fragment_Time.axml;layout/fragment_time.xml
+layout/Slide_Date_Time_Picker.axml;layout/slide_date_time_picker.xml
+Values/Colors.xml;values/colors.xml
+Values/Strings.xml;values/strings.xml
+drawable-hdpi/selection_divider.9.png;drawable-hdpi/selection_divider.9.png
+drawable-mdpi/selection_divider.9.png;drawable-mdpi/selection_divider.9.png
+drawable-xhdpi/selection_divider.9.png;drawable-xhdpi/selection_divider.9.png
